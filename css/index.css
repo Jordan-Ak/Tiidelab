@@ -1,0 +1,71 @@
+body{
+    
+    background-image: url("../images/ramadan_background2.jpg");
+    /*<--! background: url('../images/ramadan_background2.jpg'); */
+}
+
+
+ul {
+    width: 90em;
+    padding: 1em;
+    margin: 0em auto 0em auto;
+    border-top: 0.15em solid #000;
+    border-bottom: 0.15em solid #000;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 0em 2em;
+    font-size: 2em;
+   
+}
+
+  li a {
+    
+    color: rgb(223, 223, 240);
+    
+    text-decoration: none;
+    padding: 0.2em
+}
+
+  li a:hover {
+    background-color: #111;
+  }
+
+  h1{
+    text-align: center;
+    color:yellowgreen;
+    font-size: 3em;
+  }
+
+  #icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+      
+  }
+
+  form{
+        text-align: center;
+        border-style: solid;
+        
+        display: inline-block;
+
+        border-radius: 1em;
+        padding: 0.5em;
+        border-color: rgb(26, 54, 54);
+        
+        
+      
+  }
+
+  h2{
+    color:yellowgreen;
+  }
+
+  label{
+    color:yellowgreen;
+
+  }
